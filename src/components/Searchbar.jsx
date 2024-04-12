@@ -21,13 +21,13 @@ const AppInput = styled.input`
   border: none;
 `;
 const AppButton = styled.button`
-  background-color: #77dd77;
+  background-color: #0e78a3;
   border-radius: 5px;
   padding: 10px;
   color: #fff;
   border: none;
   &:hover {
-    background-color: #b0f2c2;
+    background-color: #034403;
   }
 `;
 
